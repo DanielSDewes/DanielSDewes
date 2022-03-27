@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielSDewes
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript and HTML
-- 💞️ I’m looking to collaborate on web developing
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: send me an email at: danielsilvadewe@gmail.com
 
 <!---
